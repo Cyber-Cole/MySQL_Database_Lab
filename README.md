@@ -27,7 +27,7 @@ Populate the "Coffee Shop" Table:  <br/>
 <br />
 <br />
 Populate the "Employee" Table: <br/>
-<img src="https://i.imgur.com/dgqHIZc.jpeg" height="90%" width="90%" alt="Populate Employee"/>
+<img src="https://i.imgur.com/SNcOY1K.jpeg" height="90%" width="90%" alt="Populate Employee"/>
 <br />
 <br />
 Populate the "Supplier" Table:  <br/>

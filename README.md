@@ -51,7 +51,7 @@ Select From Where (SFW) Statement:  <br/>
 <br />
 <br />
 Complex Query:  <br/>
-<img src="https://i.imgur.com/6PnSiMf.jpeg" height="90%" width="90%" alt="Complex Query"/>
+<img src="https://i.imgur.com/6PnSiMf.jpeg" height="80%" width="80%" alt="Complex Query"/>
 </p>
 
 <!--

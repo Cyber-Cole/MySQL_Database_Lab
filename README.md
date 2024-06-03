@@ -31,27 +31,27 @@ Populate the "Employee" Table: <br/>
 <br />
 <br />
 Populate the "Supplier" Table:  <br/>
-<img src="https://i.imgur.com/g4qbWNy.jpeg" height="90%" width="90%" alt="Populate Supplier"/>
+<img src="https://i.imgur.com/42tDCaA.jpeg" height="90%" width="90%" alt="Populate Supplier"/>
 <br />
 <br />
 Populate the "Coffee" Table:  <br/>
-<img src="https://i.imgur.com/WU9dnNU.jpeg" height="90%" width="90%" alt="Populate Coffee"/>
+<img src="https://i.imgur.com/dgswmvu.jpeg" height="90%" width="90%" alt="Populate Coffee"/>
 <br />
 <br />
 Create a View for the "Employee" Table:  <br/>
-<img src="https://i.imgur.com/jCz7XMp.jpeg" height="90%" width="90%" alt="View for Employee Table"/>
+<img src="https://i.imgur.com/IquDC8N.jpeg" height="90%" width="90%" alt="View for Employee Table"/>
 <br />
 <br />
 Create an Index for Coffee Name:  <br/>
-<img src="https://i.imgur.com/tSVIB45.jpeg" height="90%" width="90%" alt="Coffee Name Index"/>
+<img src="https://i.imgur.com/vrACYqW.jpeg" height="90%" width="90%" alt="Coffee Name Index"/>
 <br />
 <br />
 Select From Where (SFW) Statement:  <br/>
-<img src="https://i.imgur.com/3vEvsdP.jpeg" height="90%" width="90%" alt="Select From Where"/>
+<img src="https://i.imgur.com/IyBBFWK.jpeg" height="90%" width="90%" alt="Select From Where"/>
 <br />
 <br />
 Complex Query:  <br/>
-<img src="https://i.imgur.com/6PnSiMf.jpeg" height="80%" width="80%" alt="Complex Query"/>
+<img src="https://i.imgur.com/KKvgUeM.jpeg" height="80%" width="80%" alt="Complex Query"/>
 </p>
 
 <!--

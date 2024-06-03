@@ -23,7 +23,7 @@ Create Database Tables: <br/>
 <br />
 <br />
 Populate the "Coffee Shop" Table:  <br/>
-<img src="https://i.imgur.com/AmRQgZx.jpeg" height="90%" width="90%" alt="Populate Coffee Shop"/>
+<img src="https://i.imgur.com/SN4OH9r.jpeg" height="90%" width="90%" alt="Populate Coffee Shop"/>
 <br />
 <br />
 Populate the "Employee" Table: <br/>

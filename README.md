@@ -19,7 +19,7 @@ I used MySQL to create a small database and then perform SQL queries to verify t
 
 <p align="center">
 Create Database Tables: <br/>
-<img src="https://i.imgur.com/85sJHWO.jpeg" height="90%" width="90%" alt="Create Database Tables"/>
+<img src="https://i.imgur.com/33SiV75.jpeg" height="90%" width="90%" alt="Create Database Tables"/>
 <br />
 <br />
 Populate the "Coffee Shop" Table:  <br/>
